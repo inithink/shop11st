@@ -1,0 +1,9 @@
+src
+node_modules
+.idea
+*.iml
+jest.config.js
+.gitignore
+tsconfig.json
+.env
+cookies.json
